@@ -1,0 +1,8 @@
+tensorflow_gpu
+Pillow
+keras
+opencv-python
+cudatoolkit
+cudnn
+pydot
+graphviz
